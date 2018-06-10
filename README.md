@@ -1,5 +1,9 @@
 # Practica HackDó
 
+### Repositorio: 
+
+-- https://github.com/maleja111/hackdoTaller
+
 ## Instalamos Angular/clic
 
     `$ npm install -g @angular/cli`
@@ -15,3 +19,7 @@
 ## Levantamos el servidor
 
     `$ ng serve`
+
+## Creamos un nuevo componente
+
+    `$ ng generate component upload-file`
