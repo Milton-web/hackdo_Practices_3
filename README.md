@@ -1,21 +1,17 @@
-## Practica HackDó
+# Practica HackDó
 
-1. Instalamos Angular/clic
+## Instalamos Angular/clic
 
     `$ npm install -g @angular/cli`
 
-2. Veruficamos la versión isntalada 
+## Verificamos la versión instalada 
 
     `$ ng -v`
 
-3. Crear un nuevo proyecto
+## Crear un nuevo proyecto
 
-    `$ ng new name_project'
+    `$ ng new name_project`
 
-4. 
+## Levantamos el servidor
 
-    `$ npm i`
-
-5. Levantamos el servidor
-
-    `$ng serve`
+    `$ ng serve`
